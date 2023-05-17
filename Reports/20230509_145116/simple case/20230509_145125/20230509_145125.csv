@@ -1,0 +1,5 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+simple case,,,,2023-05-09 14:51:28,2023-05-09 14:51:32,4.114s,FAILED
+,,,,,,,
+Test Cases/test-flow-1-buy-1-product,,,,2023-05-09 14:51:28,2023-05-09 14:51:32,3.903s,FAILED
+"openBrowser(""https://nguyen-tri-nhan.github.io/"")",,,,2023-05-09 14:51:28,2023-05-09 14:51:32,3.768s,FAILED

@@ -1,0 +1,32 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+simple case,Chrome 112.0.0.0,,,2023-05-11 14:16:33,2023-05-11 14:17:34,1m - 0.793s,PASSED
+,,,,,,,
+Test Cases/test-flow-1-buy-1-product,Chrome 112.0.0.0,,,2023-05-11 14:16:33,2023-05-11 14:17:34,1m - 0.583s,PASSED
+"openBrowser(""https://nguyen-tri-nhan.github.io/"")",Chrome 112.0.0.0,,,2023-05-11 14:16:33,2023-05-11 14:16:38,5.051s,PASSED
+"click(findTestObject(""Object Repository/Page_Swag Labs/input_Swag Labs_user-name""))",Chrome 112.0.0.0,,,2023-05-11 14:16:38,2023-05-11 14:16:39,0.420s,PASSED
+"sendKeys(findTestObject(""Object Repository/Page_Swag Labs/input_Swag Labs_user-name""), ""standard_user"")",Chrome 112.0.0.0,,,2023-05-11 14:16:39,2023-05-11 14:16:39,0.403s,PASSED
+"click(findTestObject(""Object Repository/Page_Swag Labs/input_Swag Labs_password""))",Chrome 112.0.0.0,,,2023-05-11 14:16:39,2023-05-11 14:16:40,0.479s,PASSED
+"sendKeys(findTestObject(""Object Repository/Page_Swag Labs/input_Swag Labs_password""), ""secret_sauce"")",Chrome 112.0.0.0,,,2023-05-11 14:16:40,2023-05-11 14:16:41,1.360s,PASSED
+"click(findTestObject(""Object Repository/Page_Swag Labs/input_Swag Labs_login-button""))",Chrome 112.0.0.0,,,2023-05-11 14:16:41,2023-05-11 14:16:42,0.526s,PASSED
+delay(2),Chrome 112.0.0.0,,,2023-05-11 14:16:42,2023-05-11 14:16:44,2.028s,PASSED
+"click(findTestObject(""Object Repository/inventoryPage/Backpack""))",Chrome 112.0.0.0,,,2023-05-11 14:16:44,2023-05-11 14:16:44,0.385s,PASSED
+"click(findTestObject(""Object Repository/inventoryPage/button_Add to cart""))",Chrome 112.0.0.0,,,2023-05-11 14:16:44,2023-05-11 14:16:45,1.024s,PASSED
+"click(findTestObject(""Object Repository/inventoryPage/products_back-image""))",Chrome 112.0.0.0,,,2023-05-11 14:16:45,2023-05-11 14:16:46,1.051s,PASSED
+delay(2),Chrome 112.0.0.0,,,2023-05-11 14:16:46,2023-05-11 14:16:48,2.011s,PASSED
+"click(findTestObject(""Object Repository/inventoryPage/cart""))",Chrome 112.0.0.0,,,2023-05-11 14:16:48,2023-05-11 14:16:48,0.355s,PASSED
+"click(findTestObject(""Object Repository/CheckoutPage/button_Checkout""))",Chrome 112.0.0.0,,,2023-05-11 14:16:48,2023-05-11 14:16:49,0.594s,PASSED
+delay(2),Chrome 112.0.0.0,,,2023-05-11 14:16:49,2023-05-11 14:16:51,2.013s,PASSED
+"sendKeys(findTestObject(""Object Repository/checkout-step-one/input_Checkout Your Information_firstName""), ""demo"")",Chrome 112.0.0.0,,,2023-05-11 14:16:51,2023-05-11 14:16:51,0.401s,PASSED
+"sendKeys(findTestObject(""Object Repository/checkout-step-one/input_Checkout Your Information_lastName""), ""qa test"")",Chrome 112.0.0.0,,,2023-05-11 14:16:51,2023-05-11 14:16:53,1.057s,PASSED
+"sendKeys(findTestObject(""Object Repository/checkout-step-one/input_Checkout Your Information_postalCode""), ""9000"")",Chrome 112.0.0.0,,,2023-05-11 14:16:53,2023-05-11 14:17:03,10.612s,PASSED
+"click(findTestObject(""Object Repository/checkout-step-one/input_continue""))",Chrome 112.0.0.0,,,2023-05-11 14:17:03,2023-05-11 14:17:04,1.143s,PASSED
+delay(2),Chrome 112.0.0.0,,,2023-05-11 14:17:04,2023-05-11 14:17:06,2.013s,PASSED
+"click(findTestObject(""Object Repository/finish checkout/button_Finish""))",Chrome 112.0.0.0,,,2023-05-11 14:17:06,2023-05-11 14:17:07,0.354s,PASSED
+"verifyElementVisible(findTestObject(""Object Repository/order-success/h2_Thank you for your order""))",Chrome 112.0.0.0,,,2023-05-11 14:17:07,2023-05-11 14:17:08,1.020s,PASSED
+delay(2),Chrome 112.0.0.0,,,2023-05-11 14:17:08,2023-05-11 14:17:10,2.006s,PASSED
+"click(findTestObject(""Object Repository/NavSideBar/sidebar""))",Chrome 112.0.0.0,,,2023-05-11 14:17:10,2023-05-11 14:17:10,0.394s,PASSED
+"click(findTestObject(""Object Repository/NavSideBar/a_Logout""))",Chrome 112.0.0.0,,,2023-05-11 14:17:10,2023-05-11 14:17:11,0.586s,PASSED
+delay(2),Chrome 112.0.0.0,,,2023-05-11 14:17:11,2023-05-11 14:17:13,2.018s,PASSED
+"verifyElementVisible(findTestObject(""Object Repository/Page_Swag Labs/input_Swag Labs_user-name""))",Chrome 112.0.0.0,,,2023-05-11 14:17:13,2023-05-11 14:17:13,0.351s,PASSED
+delay(20),Chrome 112.0.0.0,,,2023-05-11 14:17:13,2023-05-11 14:17:33,20.002s,PASSED
+closeBrowser(),Chrome 112.0.0.0,,,2023-05-11 14:17:33,2023-05-11 14:17:34,0.778s,PASSED

@@ -12,10 +12,17 @@
    <rerunImmediately>false</rerunImmediately>
    <testSuiteGuid>12a685aa-f7f9-4644-8bf3-da07c9226715</testSuiteGuid>
    <testCaseLink>
-      <guid>a1b610f8-b4df-4508-838b-a75b3c053bf1</guid>
+      <guid>20d134a9-efbc-4e63-9566-21904bba7f27</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/test-flow-1-buy-1-product</testCaseId>
+      <testCaseId>Test Cases/ll</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>636fa58a-f353-4e33-b774-ed8bad944d2d</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/ll</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
 </TestSuiteEntity>

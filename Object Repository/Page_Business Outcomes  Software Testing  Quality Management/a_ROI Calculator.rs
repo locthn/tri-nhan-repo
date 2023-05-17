@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_ROI Calculator</name>
+   <tag></tag>
+   <elementGuidId>74f50e12-d2a9-4415-a42f-d5931fd7e730</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>a.redirect-ROI-button</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/main/div[2]/div/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>158d6582-4f2c-44c2-869d-9a6e5359db4f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>redirect-ROI-button</value>
+      <webElementGuid>5c85182f-6f60-4bb7-86ac-4daca59d62e7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/test-automation-roi</value>
+      <webElementGuid>18fbe484-7965-4bd5-a5ac-ea3761fa466b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>ROI Calculator</value>
+      <webElementGuid>aa13e371-60f0-4ecd-bc4c-bf8546dea65b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/main[1]/div[@class=&quot;BusinessOutcomes_wrapBusinessOutcome__StnZ3&quot;]/div[@class=&quot;redirect-row&quot;]/a[@class=&quot;redirect-ROI-button&quot;]</value>
+      <webElementGuid>9a725cab-1068-4be7-ab76-5c56a9e92ffc</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/main/div[2]/div/a</value>
+      <webElementGuid>6b7c0f8d-f3c2-4e35-b0b7-302a95ebd230</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'ROI Calculator')]</value>
+      <webElementGuid>733f009b-5fcf-4051-a985-b1de25a4bd76</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Increased the number of user journeys through the application that could be tested'])[1]/following::a[1]</value>
+      <webElementGuid>1ff6f6f9-3dc2-4dd4-bf56-d58dc2e7c679</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Success Stories'])[2]/preceding::a[1]</value>
+      <webElementGuid>a452f6f0-71b9-444e-a929-e158d2b42ea6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Why Katalon'])[4]/preceding::a[2]</value>
+      <webElementGuid>d75c8672-e5f1-4a0d-a186-fe915979998b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='ROI Calculator']/parent::*</value>
+      <webElementGuid>c4dedcdb-4b10-425a-9c68-ee81ee4a362b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/test-automation-roi')]</value>
+      <webElementGuid>129a0a89-726a-4b04-aee7-bdeedbe06fce</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/a</value>
+      <webElementGuid>9ea419b2-49b3-4916-aedd-640e3ebebafd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/test-automation-roi' and (text() = 'ROI Calculator' or . = 'ROI Calculator')]</value>
+      <webElementGuid>1ab75d57-1cdd-4599-8769-1138600edadb</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

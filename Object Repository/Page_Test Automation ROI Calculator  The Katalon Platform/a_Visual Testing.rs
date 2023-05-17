@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Visual Testing</name>
+   <tag></tag>
+   <elementGuidId>4a2dd468-af97-4740-81dd-59d6edbe11c4</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>a.link.solutions-link</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/main/div[3]/footer/div/div[2]/div/div[3]/div[2]/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>e35c4e1f-8d47-44d5-baa9-9365f63d674d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>link solutions-link</value>
+      <webElementGuid>d8d73cf0-df21-40da-a89b-9ecccd821a53</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/visual-testing</value>
+      <webElementGuid>ac169b5b-f3b8-4439-8a24-bf87a9883ae8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Visual Testing</value>
+      <webElementGuid>9210e901-1c04-433c-83d7-33efdc4c20e5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/main[1]/div[@class=&quot;Footer_wrapFooter__2HFBG&quot;]/footer[@class=&quot;katalon-footer&quot;]/div[@class=&quot;footer-wrapper&quot;]/div[@class=&quot;footer-right&quot;]/div[@class=&quot;main-section&quot;]/div[@class=&quot;footer-section solutions&quot;]/div[@class=&quot;list solutions-list&quot;]/a[@class=&quot;link solutions-link&quot;]</value>
+      <webElementGuid>a6ed8600-e4f3-4342-a00f-7501b9f1f5e9</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/main/div[3]/footer/div/div[2]/div/div[3]/div[2]/a</value>
+      <webElementGuid>7335a3a4-7405-4421-820a-e5584d378c47</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>(//a[contains(text(),'Visual Testing')])[3]</value>
+      <webElementGuid>9ee44c76-2a98-4111-88f4-7a7749a6748e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Solutions'])[3]/following::a[1]</value>
+      <webElementGuid>ffdcf3e7-973f-4f5f-aa34-2ac4fc612820</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Pricing'])[3]/following::a[1]</value>
+      <webElementGuid>c8f5fd13-dc75-485e-82e7-89adca0ba7ea</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Web Testing'])[3]/preceding::a[1]</value>
+      <webElementGuid>a828b4a8-828b-48aa-9da7-cbb286d38c79</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='API Testing'])[3]/preceding::a[2]</value>
+      <webElementGuid>47f732a1-14da-4cfe-9bb0-0221ed9b8814</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, '/visual-testing')])[5]</value>
+      <webElementGuid>693a989a-2df5-451c-827b-bd622c1aaf85</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div[3]/div[2]/a</value>
+      <webElementGuid>f66258db-d21e-43a5-ba3b-3a29642e9d68</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/visual-testing' and (text() = 'Visual Testing' or . = 'Visual Testing')]</value>
+      <webElementGuid>986e55f2-0212-4e0d-af34-df84adbec20d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
